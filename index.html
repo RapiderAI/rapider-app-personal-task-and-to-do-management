@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rapider Personal Task &amp; To-Do Management</title>
+  <script src="https://kit.fontawesome.com/5b23df26dc.js" crossorigin="anonymous" defer></script>
+  <script src="/assets/js/rapider-components.js" defer></script>
+  <link rel="stylesheet" href="/assets/themes/rapider-tailwind-theme.css">
+  <link rel="stylesheet" href="/assets/themes/crm-expenses-design.css">
+  <style>
+    body, html { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; }
+    iframe#appFrame { width: 100%; height: 100%; border: none; }
+  </style>
+</head>
+<body>
+  <iframe id="appFrame" src="pages/my-day/my-day.html"></iframe>
+  <script>
+    const routes = {
+  "my-day": "pages/my-day/my-day.html",
+  "inbox-tasks": "pages/inbox-tasks/inbox-tasks.html",
+  "upcoming-calendar": "pages/upcoming-calendar/upcoming-calendar.html",
+  "areas-and-lists": "pages/areas-and-lists/areas-and-lists.html",
+  "priority-matrix": "pages/priority-matrix/priority-matrix.html",
+  "habits": "pages/habits/habits.html",
+  "focus-timer": "pages/focus-timer/focus-timer.html",
+  "logbook-insights": "pages/logbook-insights/logbook-insights.html",
+  "privacy-sharing": "pages/privacy-sharing/privacy-sharing.html",
+  "task-detail": "pages/task-detail/task-detail.html",
+  "list-detail": "pages/list-detail/list-detail.html",
+  "new-task-drawer": "pages/new-task-drawer/new-task-drawer.html",
+  "share-list-drawer": "pages/share-list-drawer/share-list-drawer.html"
+};
+    function handleHash() {
+      const hash = window.location.hash.replace(/^#\/?/, '').split('?')[0];
+      const route = hash || 'my-day';
+      const target = routes[route] || routes['my-day'];
+      const iframe = document.getElementById('appFrame');
+      if (iframe) iframe.src = target;
+    }
+    window.addEventListener('hashchange', handleHash);
+    window.addEventListener('load', handleHash);
+  </script>
+</body>
+</html>

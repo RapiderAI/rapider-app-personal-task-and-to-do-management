@@ -1,0 +1,609 @@
+{
+  "ApmIssue": [
+    {
+      "id": "00000000-0177-0001-0000-000000000001",
+      "projectId": "00000000-0177-0001-0000-000000000001",
+      "epicId": "00000000-0177-0001-0000-000000000001",
+      "sprintId": "00000000-0177-0001-0000-000000000001",
+      "title": "Issue #1 — Enterprise Primary Record",
+      "description": "Issue description configuration (1)",
+      "type": "Issue type configuration (1)",
+      "status": "ACTIVE",
+      "priority": "Issue priority configuration (1)",
+      "storyPoints": 10,
+      "labelIds": [
+        "item-1-a",
+        "item-1-b"
+      ],
+      "isDeleted": false,
+      "assigneeId": "00000000-0177-0001-0000-000000000001",
+      "reporterId": "00000000-0177-0001-0000-000000000001"
+    },
+    {
+      "id": "00000000-0177-0001-0000-000000000002",
+      "projectId": "00000000-0177-0001-0000-000000000002",
+      "epicId": "00000000-0177-0001-0000-000000000002",
+      "sprintId": "00000000-0177-0001-0000-000000000002",
+      "title": "Issue #2 — Enterprise Operations Record",
+      "description": "Issue description configuration (2)",
+      "type": "Issue type configuration (2)",
+      "status": "IN_PROGRESS",
+      "priority": "Issue priority configuration (2)",
+      "storyPoints": 20,
+      "labelIds": [
+        "item-2-a",
+        "item-2-b"
+      ],
+      "isDeleted": false,
+      "assigneeId": "00000000-0177-0001-0000-000000000002",
+      "reporterId": "00000000-0177-0001-0000-000000000002"
+    },
+    {
+      "id": "00000000-0177-0001-0000-000000000003",
+      "projectId": "00000000-0177-0001-0000-000000000003",
+      "epicId": "00000000-0177-0001-0000-000000000003",
+      "sprintId": "00000000-0177-0001-0000-000000000003",
+      "title": "Issue #3 — Enterprise Compliance Record",
+      "description": "Issue description configuration (3)",
+      "type": "Issue type configuration (3)",
+      "status": "COMPLETED",
+      "priority": "Issue priority configuration (3)",
+      "storyPoints": 30,
+      "labelIds": [
+        "item-3-a",
+        "item-3-b"
+      ],
+      "isDeleted": false,
+      "assigneeId": "00000000-0177-0001-0000-000000000003",
+      "reporterId": "00000000-0177-0001-0000-000000000003"
+    }
+  ],
+  "ApmProject": [
+    {
+      "id": "00000000-0177-0002-0000-000000000001",
+      "name": "Project #1 — Enterprise Primary Record",
+      "description": "Project description configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0002-0000-000000000002",
+      "name": "Project #2 — Enterprise Operations Record",
+      "description": "Project description configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0002-0000-000000000003",
+      "name": "Project #3 — Enterprise Compliance Record",
+      "description": "Project description configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "ApmSprint": [
+    {
+      "id": "00000000-0177-0003-0000-000000000001",
+      "projectId": "00000000-0177-0001-0000-000000000001",
+      "name": "Sprint #1 — Enterprise Primary Record",
+      "goal": "Sprint goal configuration (1)",
+      "startDate": "2026-11-01T10:00:00Z",
+      "endDate": "2026-11-01T10:00:00Z",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0003-0000-000000000002",
+      "projectId": "00000000-0177-0001-0000-000000000002",
+      "name": "Sprint #2 — Enterprise Operations Record",
+      "goal": "Sprint goal configuration (2)",
+      "startDate": "2026-11-02T10:00:00Z",
+      "endDate": "2026-11-02T10:00:00Z",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0003-0000-000000000003",
+      "projectId": "00000000-0177-0001-0000-000000000003",
+      "name": "Sprint #3 — Enterprise Compliance Record",
+      "goal": "Sprint goal configuration (3)",
+      "startDate": "2026-11-03T10:00:00Z",
+      "endDate": "2026-11-03T10:00:00Z",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "ApmTimesheet": [
+    {
+      "id": "00000000-0177-0004-0000-000000000001",
+      "personId": "00000000-0177-0001-0000-000000000001",
+      "periodStart": "2026-11-01T10:00:00Z",
+      "periodEnd": "2026-11-01T10:00:00Z",
+      "state": "Weekly Timesheet state configuration (1)",
+      "submittedAt": "2026-11-01T10:00:00Z",
+      "approvedAt": "2026-11-01T10:00:00Z",
+      "approverIds": [
+        "item-1-a",
+        "item-1-b"
+      ],
+      "lockedAt": "2026-11-01T10:00:00Z",
+      "policyVersion": "Weekly Timesheet policyVersion configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0004-0000-000000000002",
+      "personId": "00000000-0177-0001-0000-000000000002",
+      "periodStart": "2026-11-02T10:00:00Z",
+      "periodEnd": "2026-11-02T10:00:00Z",
+      "state": "Weekly Timesheet state configuration (2)",
+      "submittedAt": "2026-11-02T10:00:00Z",
+      "approvedAt": "2026-11-02T10:00:00Z",
+      "approverIds": [
+        "item-2-a",
+        "item-2-b"
+      ],
+      "lockedAt": "2026-11-02T10:00:00Z",
+      "policyVersion": "Weekly Timesheet policyVersion configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0004-0000-000000000003",
+      "personId": "00000000-0177-0001-0000-000000000003",
+      "periodStart": "2026-11-03T10:00:00Z",
+      "periodEnd": "2026-11-03T10:00:00Z",
+      "state": "Weekly Timesheet state configuration (3)",
+      "submittedAt": "2026-11-03T10:00:00Z",
+      "approvedAt": "2026-11-03T10:00:00Z",
+      "approverIds": [
+        "item-3-a",
+        "item-3-b"
+      ],
+      "lockedAt": "2026-11-03T10:00:00Z",
+      "policyVersion": "Weekly Timesheet policyVersion configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "FinInvoice": [
+    {
+      "id": "00000000-0177-0005-0000-000000000001",
+      "legalEntityId": "00000000-0177-0001-0000-000000000001",
+      "type": "Invoice type configuration (1)",
+      "partnerName": "Invoice #1 — Enterprise Primary Record",
+      "invoiceDate": "2026-11-01T10:00:00Z",
+      "dueDate": "2026-11-01T10:00:00Z",
+      "totalAmount": 1250,
+      "currency": "USD",
+      "status": "ACTIVE",
+      "isDeleted": false,
+      "invoiceNumber": "FI-2026-0001",
+      "accountId": "00000000-0177-0001-0000-000000000001",
+      "billingProfileId": "00000000-0177-0001-0000-000000000001",
+      "subscriptionId": "00000000-0177-0001-0000-000000000001",
+      "customerOrderId": "00000000-0177-0001-0000-000000000001",
+      "issueDate": "2026-11-01T10:00:00Z",
+      "subtotalAmount": 1250,
+      "taxAmount": 1250,
+      "openAmount": 1250,
+      "currencyCode": "FI-2026-0001",
+      "disputeStatus": "Invoice disputeStatus configuration (1)",
+      "eInvoiceClearanceStatus": "Invoice eInvoiceClearanceStatus configuration (1)",
+      "customerName": "Invoice #1 — Enterprise Primary Record",
+      "createdAt": "2026-11-01T10:00:00Z",
+      "updatedAt": "2026-11-01T10:00:00Z"
+    },
+    {
+      "id": "00000000-0177-0005-0000-000000000002",
+      "legalEntityId": "00000000-0177-0001-0000-000000000002",
+      "type": "Invoice type configuration (2)",
+      "partnerName": "Invoice #2 — Enterprise Operations Record",
+      "invoiceDate": "2026-11-02T10:00:00Z",
+      "dueDate": "2026-11-02T10:00:00Z",
+      "totalAmount": 2500,
+      "currency": "USD",
+      "status": "IN_PROGRESS",
+      "isDeleted": false,
+      "invoiceNumber": "FI-2026-0002",
+      "accountId": "00000000-0177-0001-0000-000000000002",
+      "billingProfileId": "00000000-0177-0001-0000-000000000002",
+      "subscriptionId": "00000000-0177-0001-0000-000000000002",
+      "customerOrderId": "00000000-0177-0001-0000-000000000002",
+      "issueDate": "2026-11-02T10:00:00Z",
+      "subtotalAmount": 2500,
+      "taxAmount": 2500,
+      "openAmount": 2500,
+      "currencyCode": "FI-2026-0002",
+      "disputeStatus": "Invoice disputeStatus configuration (2)",
+      "eInvoiceClearanceStatus": "Invoice eInvoiceClearanceStatus configuration (2)",
+      "customerName": "Invoice #2 — Enterprise Operations Record",
+      "createdAt": "2026-11-02T10:00:00Z",
+      "updatedAt": "2026-11-02T10:00:00Z"
+    },
+    {
+      "id": "00000000-0177-0005-0000-000000000003",
+      "legalEntityId": "00000000-0177-0001-0000-000000000003",
+      "type": "Invoice type configuration (3)",
+      "partnerName": "Invoice #3 — Enterprise Compliance Record",
+      "invoiceDate": "2026-11-03T10:00:00Z",
+      "dueDate": "2026-11-03T10:00:00Z",
+      "totalAmount": 3750,
+      "currency": "USD",
+      "status": "COMPLETED",
+      "isDeleted": false,
+      "invoiceNumber": "FI-2026-0003",
+      "accountId": "00000000-0177-0001-0000-000000000003",
+      "billingProfileId": "00000000-0177-0001-0000-000000000003",
+      "subscriptionId": "00000000-0177-0001-0000-000000000003",
+      "customerOrderId": "00000000-0177-0001-0000-000000000003",
+      "issueDate": "2026-11-03T10:00:00Z",
+      "subtotalAmount": 3750,
+      "taxAmount": 3750,
+      "openAmount": 3750,
+      "currencyCode": "FI-2026-0003",
+      "disputeStatus": "Invoice disputeStatus configuration (3)",
+      "eInvoiceClearanceStatus": "Invoice eInvoiceClearanceStatus configuration (3)",
+      "customerName": "Invoice #3 — Enterprise Compliance Record",
+      "createdAt": "2026-11-03T10:00:00Z",
+      "updatedAt": "2026-11-03T10:00:00Z"
+    }
+  ],
+  "PrsTaskList": [
+    {
+      "id": "00000000-0177-0006-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task List ownerUserRef configuration (1)",
+      "areaName": "Task List #1 — Enterprise Primary Record",
+      "name": "Task List #1 — Enterprise Primary Record",
+      "colorHex": "Task List colorHex configuration (1)",
+      "iconKey": "PTL-2026-0001",
+      "isInbox": true,
+      "isTemplate": true,
+      "defaultView": "Task List defaultView configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0006-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task List ownerUserRef configuration (2)",
+      "areaName": "Task List #2 — Enterprise Operations Record",
+      "name": "Task List #2 — Enterprise Operations Record",
+      "colorHex": "Task List colorHex configuration (2)",
+      "iconKey": "PTL-2026-0002",
+      "isInbox": true,
+      "isTemplate": true,
+      "defaultView": "Task List defaultView configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0006-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task List ownerUserRef configuration (3)",
+      "areaName": "Task List #3 — Enterprise Compliance Record",
+      "name": "Task List #3 — Enterprise Compliance Record",
+      "colorHex": "Task List colorHex configuration (3)",
+      "iconKey": "PTL-2026-0003",
+      "isInbox": false,
+      "isTemplate": false,
+      "defaultView": "Task List defaultView configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskSection": [
+    {
+      "id": "00000000-0177-0007-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Section ownerUserRef configuration (1)",
+      "listId": "00000000-0177-0001-0000-000000000001",
+      "title": "Task Section #1 — Enterprise Primary Record",
+      "sortOrder": 10,
+      "isCollapsed": true,
+      "version": 1,
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0007-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Section ownerUserRef configuration (2)",
+      "listId": "00000000-0177-0001-0000-000000000002",
+      "title": "Task Section #2 — Enterprise Operations Record",
+      "sortOrder": 20,
+      "isCollapsed": true,
+      "version": 2,
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0007-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Section ownerUserRef configuration (3)",
+      "listId": "00000000-0177-0001-0000-000000000003",
+      "title": "Task Section #3 — Enterprise Compliance Record",
+      "sortOrder": 30,
+      "isCollapsed": false,
+      "version": 3,
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskItem": [
+    {
+      "id": "00000000-0177-0008-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Item ownerUserRef configuration (1)",
+      "listId": "00000000-0177-0001-0000-000000000001",
+      "sectionId": "00000000-0177-0001-0000-000000000001",
+      "parentTaskId": "00000000-0177-0001-0000-000000000001",
+      "title": "Task Item #1 — Enterprise Primary Record",
+      "notesMarkdown": "Task Item notesMarkdown configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0008-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Item ownerUserRef configuration (2)",
+      "listId": "00000000-0177-0001-0000-000000000002",
+      "sectionId": "00000000-0177-0001-0000-000000000002",
+      "parentTaskId": "00000000-0177-0001-0000-000000000002",
+      "title": "Task Item #2 — Enterprise Operations Record",
+      "notesMarkdown": "Task Item notesMarkdown configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0008-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Item ownerUserRef configuration (3)",
+      "listId": "00000000-0177-0001-0000-000000000003",
+      "sectionId": "00000000-0177-0001-0000-000000000003",
+      "parentTaskId": "00000000-0177-0001-0000-000000000003",
+      "title": "Task Item #3 — Enterprise Compliance Record",
+      "notesMarkdown": "Task Item notesMarkdown configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskSavedFilter": [
+    {
+      "id": "00000000-0177-0009-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Saved Filter ownerUserRef configuration (1)",
+      "name": "Task Saved Filter #1 — Enterprise Primary Record",
+      "filterSpecJson": {
+        "configured": true,
+        "tier": 1
+      },
+      "isPinned": true,
+      "sortOrder": 10,
+      "version": 1,
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0009-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Saved Filter ownerUserRef configuration (2)",
+      "name": "Task Saved Filter #2 — Enterprise Operations Record",
+      "filterSpecJson": {
+        "configured": true,
+        "tier": 2
+      },
+      "isPinned": true,
+      "sortOrder": 20,
+      "version": 2,
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0009-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Saved Filter ownerUserRef configuration (3)",
+      "name": "Task Saved Filter #3 — Enterprise Compliance Record",
+      "filterSpecJson": {
+        "configured": true,
+        "tier": 3
+      },
+      "isPinned": false,
+      "sortOrder": 30,
+      "version": 3,
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskDailyRitual": [
+    {
+      "id": "00000000-0177-0010-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Daily Ritual ownerUserRef configuration (1)",
+      "ritualDate": "2026-11-01T10:00:00Z",
+      "dailyCapacityHours": 10,
+      "plannedTotalHours": 10,
+      "actualFocusedHours": 10,
+      "topThreeTaskIds": [
+        "item-1-a",
+        "item-1-b"
+      ],
+      "morningPlannedAt": "2026-11-01T10:00:00Z",
+      "eveningShutdownAt": "2026-11-01T10:00:00Z",
+      "privateReflectionWin": "Task Daily Ritual privateReflectionWin configuration (1)",
+      "version": 1,
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0010-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Daily Ritual ownerUserRef configuration (2)",
+      "ritualDate": "2026-11-02T10:00:00Z",
+      "dailyCapacityHours": 20,
+      "plannedTotalHours": 20,
+      "actualFocusedHours": 20,
+      "topThreeTaskIds": [
+        "item-2-a",
+        "item-2-b"
+      ],
+      "morningPlannedAt": "2026-11-02T10:00:00Z",
+      "eveningShutdownAt": "2026-11-02T10:00:00Z",
+      "privateReflectionWin": "Task Daily Ritual privateReflectionWin configuration (2)",
+      "version": 2,
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0010-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Daily Ritual ownerUserRef configuration (3)",
+      "ritualDate": "2026-11-03T10:00:00Z",
+      "dailyCapacityHours": 30,
+      "plannedTotalHours": 30,
+      "actualFocusedHours": 30,
+      "topThreeTaskIds": [
+        "item-3-a",
+        "item-3-b"
+      ],
+      "morningPlannedAt": "2026-11-03T10:00:00Z",
+      "eveningShutdownAt": "2026-11-03T10:00:00Z",
+      "privateReflectionWin": "Task Daily Ritual privateReflectionWin configuration (3)",
+      "version": 3,
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskFocusSession": [
+    {
+      "id": "00000000-0177-0011-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Focus Session ownerUserRef configuration (1)",
+      "taskId": "00000000-0177-0001-0000-000000000001",
+      "mode": "Task Focus Session mode configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0011-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Focus Session ownerUserRef configuration (2)",
+      "taskId": "00000000-0177-0001-0000-000000000002",
+      "mode": "Task Focus Session mode configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0011-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Focus Session ownerUserRef configuration (3)",
+      "taskId": "00000000-0177-0001-0000-000000000003",
+      "mode": "Task Focus Session mode configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskHabit": [
+    {
+      "id": "00000000-0177-0012-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Habit ownerUserRef configuration (1)",
+      "name": "Task Habit #1 — Enterprise Primary Record",
+      "areaName": "Task Habit #1 — Enterprise Primary Record",
+      "targetDaysPerWeek": 10,
+      "preferredDayBucket": "Task Habit preferredDayBucket configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0012-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Habit ownerUserRef configuration (2)",
+      "name": "Task Habit #2 — Enterprise Operations Record",
+      "areaName": "Task Habit #2 — Enterprise Operations Record",
+      "targetDaysPerWeek": 20,
+      "preferredDayBucket": "Task Habit preferredDayBucket configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0012-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Habit ownerUserRef configuration (3)",
+      "name": "Task Habit #3 — Enterprise Compliance Record",
+      "areaName": "Task Habit #3 — Enterprise Compliance Record",
+      "targetDaysPerWeek": 30,
+      "preferredDayBucket": "Task Habit preferredDayBucket configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskHabitCheckIn": [
+    {
+      "id": "00000000-0177-0013-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Habit Check In ownerUserRef configuration (1)",
+      "habitId": "00000000-0177-0001-0000-000000000001",
+      "localDate": "2026-11-01T10:00:00Z",
+      "state": "Task Habit Check In state configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0013-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Habit Check In ownerUserRef configuration (2)",
+      "habitId": "00000000-0177-0001-0000-000000000002",
+      "localDate": "2026-11-02T10:00:00Z",
+      "state": "Task Habit Check In state configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0013-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Habit Check In ownerUserRef configuration (3)",
+      "habitId": "00000000-0177-0001-0000-000000000003",
+      "localDate": "2026-11-03T10:00:00Z",
+      "state": "Task Habit Check In state configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ],
+  "PrsTaskShareGrant": [
+    {
+      "id": "00000000-0177-0014-0000-000000000001",
+      "ownerUserId": "00000000-0177-0001-0000-000000000001",
+      "ownerUserRef": "Task Share Grant ownerUserRef configuration (1)",
+      "listId": "00000000-0177-0001-0000-000000000001",
+      "granteeUserRef": "Task Share Grant granteeUserRef configuration (1)",
+      "granteePhoneE164": "+1-555-019-2801",
+      "accessRole": "Task Share Grant accessRole configuration (1)",
+      "status": "ACTIVE",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0014-0000-000000000002",
+      "ownerUserId": "00000000-0177-0001-0000-000000000002",
+      "ownerUserRef": "Task Share Grant ownerUserRef configuration (2)",
+      "listId": "00000000-0177-0001-0000-000000000002",
+      "granteeUserRef": "Task Share Grant granteeUserRef configuration (2)",
+      "granteePhoneE164": "+1-555-019-2802",
+      "accessRole": "Task Share Grant accessRole configuration (2)",
+      "status": "IN_PROGRESS",
+      "isDeleted": false
+    },
+    {
+      "id": "00000000-0177-0014-0000-000000000003",
+      "ownerUserId": "00000000-0177-0001-0000-000000000003",
+      "ownerUserRef": "Task Share Grant ownerUserRef configuration (3)",
+      "listId": "00000000-0177-0001-0000-000000000003",
+      "granteeUserRef": "Task Share Grant granteeUserRef configuration (3)",
+      "granteePhoneE164": "+1-555-019-2803",
+      "accessRole": "Task Share Grant accessRole configuration (3)",
+      "status": "COMPLETED",
+      "isDeleted": false
+    }
+  ]
+}
