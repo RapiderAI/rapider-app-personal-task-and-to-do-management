@@ -4,8 +4,8 @@
   "appName": "Rapider Personal Task & To-Do Management",
   "repository": "",
   "version": "1.0.0",
-  "lastBuildTimestamp": "2026-11-01T12:35:10.130Z",
-  "lastCommit": "d5cd373",
+  "lastBuildTimestamp": "2026-11-02T09:47:55.229Z",
+  "lastCommit": "060761a",
   "summary": {
     "status": "qa_passed",
     "complianceRate": 100,
@@ -18,147 +18,147 @@
     "failedQaPasses": 0,
     "e2eSuitesCount": 0,
     "e2ePassedCount": 0,
-    "lastFullAudit": "2026-11-01T12:35:10.130Z",
+    "lastFullAudit": "2026-11-02T09:47:55.229Z",
     "lastE2ERun": null
   },
   "qaPasses": {
     "pass-01-routing": {
       "name": "pass-01-routing",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-02-swr": {
       "name": "pass-02-swr",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-03-data-models": {
       "name": "pass-03-data-models",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-04-modals": {
       "name": "pass-04-modals",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-05-drawers": {
       "name": "pass-05-drawers",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-06-responsive": {
       "name": "pass-06-responsive",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-07-themes": {
       "name": "pass-07-themes",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-08-notifications": {
       "name": "pass-08-notifications",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-09-payloads": {
       "name": "pass-09-payloads",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-10-components": {
       "name": "pass-10-components",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-11-e2e-expectations": {
       "name": "pass-11-e2e-expectations",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-12-asset-externalization": {
       "name": "pass-12-asset-externalization",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-13-manifest-sync": {
       "name": "pass-13-manifest-sync",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-14-ui-states": {
       "name": "pass-14-ui-states",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-15-security": {
       "name": "pass-15-security",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-16-accessibility": {
       "name": "pass-16-accessibility",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-17-input-formatting": {
       "name": "pass-17-input-formatting",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-18-kanban-list-views": {
       "name": "pass-18-kanban-list-views",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-19-ui-best-practices": {
       "name": "pass-19-ui-best-practices",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     },
     "pass-20-search-filters": {
       "name": "pass-20-search-filters",
       "status": "passed",
-      "lastRun": "2026-11-01T12:35:10.130Z",
+      "lastRun": "2026-11-02T09:47:55.229Z",
       "pagesCovered": 13,
       "issuesFound": 0
     }
@@ -167,442 +167,285 @@
     "pages/my-day/my-day.html": {
       "pageName": "My Day & Rituals",
       "route": "my-day",
-      "fileHash": "sha256:f2fabbaa9f1110441fe54b099db04c6038c1dea95b61345f46ad535e43e05436",
-      "lastModified": "2026-11-01T12:35:10.028Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
+      "fileHash": "sha256:cf54d05f61271946956a2d70e355847be7461b9b16728b5aa9b9a3e1d4365352",
+      "lastModified": "2026-11-02T09:47:55.098Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
       "status": "passed",
       "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
+        "buttonsTotal": 5,
+        "buttonsWithActions": 5,
         "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
+        "linksTotal": 15,
+        "linksValid": 15,
         "nativeAlerts": 0,
         "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
+        "swrCalls": 0,
+        "modalsTotal": 0
       },
       "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
+      "warnings": []
     },
     "pages/inbox-tasks/inbox-tasks.html": {
       "pageName": "Inbox & All Tasks",
       "route": "inbox-tasks",
-      "fileHash": "sha256:83e217a89ee052a0d634ce4a7818ceb7e381060b5cf9d8b8927e5a4328f9e05f",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
+      "fileHash": "sha256:50f50dc23dd4a8e0274031280b3b5672c277a39319f7c61418be6f25882d2739",
+      "lastModified": "2026-11-02T09:47:55.098Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
       "status": "passed",
       "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
         "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
+        "linksTotal": 14,
+        "linksValid": 14,
         "nativeAlerts": 0,
         "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
+        "swrCalls": 0,
+        "modalsTotal": 0
       },
       "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
+      "warnings": []
     },
     "pages/upcoming-calendar/upcoming-calendar.html": {
       "pageName": "Upcoming & Time-Blocking",
       "route": "upcoming-calendar",
-      "fileHash": "sha256:64e162ccbe71a5a2375a1ebb22d22e394433df4bbb5a618e4ca49ce8a6eeff78",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
+      "fileHash": "sha256:8869baf768cda9bf5fcd1a0adfa7d0708aedbfaef918c41f6aa2cd2a26eca2f1",
+      "lastModified": "2026-11-02T09:47:55.099Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
       "status": "passed",
       "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/areas-and-lists/areas-and-lists.html": {
-      "pageName": "Areas & Personal Lists",
-      "route": "areas-and-lists",
-      "fileHash": "sha256:6cca071750dbccfe4ec123c1a06a86d543c23f9493974aec7f576f1246157c3d",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/priority-matrix/priority-matrix.html": {
-      "pageName": "Eisenhower & Kanban",
-      "route": "priority-matrix",
-      "fileHash": "sha256:1b1c2e4a496b596602a0ce85bf88e4d5b64d9c295cd5e357b6542ed1716baf45",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/habits/habits.html": {
-      "pageName": "Daily Habits",
-      "route": "habits",
-      "fileHash": "sha256:c242af890c1542d70091b554b3a5a9876a7f8376b75966aabc859f9a7480623c",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/focus-timer/focus-timer.html": {
-      "pageName": "Pomodoro Focus Studio",
-      "route": "focus-timer",
-      "fileHash": "sha256:21e087ffc504d26b38a9782c4633cc510e7b1b15297ef54ab5173d8f9854f983",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/logbook-insights/logbook-insights.html": {
-      "pageName": "Logbook & Insights",
-      "route": "logbook-insights",
-      "fileHash": "sha256:ff578f6d2da57ae48799c04a4bea858deaa70b40bb1b685e1e80b6886a21ae4b",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/privacy-sharing/privacy-sharing.html": {
-      "pageName": "Sharing, Portability & Privacy",
-      "route": "privacy-sharing",
-      "fileHash": "sha256:d59737a42ea2a3f38befb49a39f8277d88811b605a26e0fbfe7417d53289d435",
-      "lastModified": "2026-11-01T12:35:10.029Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 8,
-        "buttonsWithActions": 8,
-        "deadButtons": 0,
-        "linksTotal": 12,
-        "linksValid": 12,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 2,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/task-detail/task-detail.html": {
-      "pageName": "Task Detail & Subtasks",
-      "route": "task-detail",
-      "fileHash": "sha256:b8a3792d92d87291afe712c93b4316864821bfbc0e5b5ea184f3e35037399f1f",
-      "lastModified": "2026-11-01T12:35:10.030Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 9,
-        "buttonsWithActions": 9,
-        "deadButtons": 0,
-        "linksTotal": 14,
-        "linksValid": 14,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 0,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/list-detail/list-detail.html": {
-      "pageName": "Personal List Workspace",
-      "route": "list-detail",
-      "fileHash": "sha256:bce3273c76f4c2a28686e245d3b61250f1f1634975afa00a03e06459162df078",
-      "lastModified": "2026-11-01T12:35:10.031Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 9,
-        "buttonsWithActions": 9,
-        "deadButtons": 0,
-        "linksTotal": 14,
-        "linksValid": 14,
-        "nativeAlerts": 0,
-        "contrastCompliant": true,
-        "swrCalls": 0,
-        "modalsTotal": 1
-      },
-      "issues": [],
-      "warnings": [
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
-        }
-      ]
-    },
-    "pages/new-task-drawer/new-task-drawer.html": {
-      "pageName": "Quick / Full Task & Brain-Dump Drawer",
-      "route": "new-task-drawer",
-      "fileHash": "sha256:0c86d8e963876c69b5956dc50e16d2b53698aff1e2f9a7848518a7cb4c1f68f4",
-      "lastModified": "2026-11-01T12:35:10.031Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
-      "status": "passed",
-      "metrics": {
-        "buttonsTotal": 7,
-        "buttonsWithActions": 7,
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
         "deadButtons": 0,
         "linksTotal": 14,
         "linksValid": 14,
         "nativeAlerts": 0,
         "contrastCompliant": true,
         "swrCalls": 1,
-        "modalsTotal": 1
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/areas-and-lists/areas-and-lists.html": {
+      "pageName": "Areas & Personal Lists",
+      "route": "areas-and-lists",
+      "fileHash": "sha256:ddf7af4bcdc5f2cdea5eb72713a8e360e2919d520426540fd8e9cc46deea05f1",
+      "lastModified": "2026-11-02T09:47:55.100Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 0,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/priority-matrix/priority-matrix.html": {
+      "pageName": "Eisenhower & Kanban",
+      "route": "priority-matrix",
+      "fileHash": "sha256:a1de457554f08fe0bcf99a3ac7f55934d588d7b7de864927339eae4b29b824d5",
+      "lastModified": "2026-11-02T09:47:55.101Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 0,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/habits/habits.html": {
+      "pageName": "Daily Habits",
+      "route": "habits",
+      "fileHash": "sha256:f4e2619c5fdb1f5823e78c2e6e61cdb3df2b18f6e7c5393387b33c891face8a1",
+      "lastModified": "2026-11-02T09:47:55.102Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/focus-timer/focus-timer.html": {
+      "pageName": "Pomodoro Focus Studio",
+      "route": "focus-timer",
+      "fileHash": "sha256:d52cb6c62248753f72b590972898756c2cb0f1d7a7cf461e89e85d1ee8779404",
+      "lastModified": "2026-11-02T09:47:55.103Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/logbook-insights/logbook-insights.html": {
+      "pageName": "Logbook & Insights",
+      "route": "logbook-insights",
+      "fileHash": "sha256:4b610eba2b434890ab76133fabdc91334871248a1ceefc7b26f973d9a413be74",
+      "lastModified": "2026-11-02T09:47:55.103Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/privacy-sharing/privacy-sharing.html": {
+      "pageName": "Sharing, Portability & Privacy",
+      "route": "privacy-sharing",
+      "fileHash": "sha256:2afc142f27fbfe95c2154661fa0c5a93172dc0701bc83a2fdd2c7cc3106909dc",
+      "lastModified": "2026-11-02T09:47:55.103Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 6,
+        "buttonsWithActions": 6,
+        "deadButtons": 0,
+        "linksTotal": 14,
+        "linksValid": 14,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/task-detail/task-detail.html": {
+      "pageName": "Task Detail & Subtasks",
+      "route": "task-detail",
+      "fileHash": "sha256:d285e80f175ded0143b16ad5996bc311dc1819a9f6b516fb1c9aa22feea7cb77",
+      "lastModified": "2026-11-02T09:47:55.104Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 5,
+        "buttonsWithActions": 5,
+        "deadButtons": 0,
+        "linksTotal": 15,
+        "linksValid": 15,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 0,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/list-detail/list-detail.html": {
+      "pageName": "Personal List Workspace",
+      "route": "list-detail",
+      "fileHash": "sha256:6ee6d5d7427875ac981b21e7f32dc35aa9259fae3e79ee86a387a6e74ec6cf08",
+      "lastModified": "2026-11-02T09:47:55.104Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 5,
+        "buttonsWithActions": 5,
+        "deadButtons": 0,
+        "linksTotal": 15,
+        "linksValid": 15,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 0,
+        "modalsTotal": 0
+      },
+      "issues": [],
+      "warnings": []
+    },
+    "pages/new-task-drawer/new-task-drawer.html": {
+      "pageName": "Quick / Full Task & Brain-Dump Drawer",
+      "route": "new-task-drawer",
+      "fileHash": "sha256:38c6e7a509e32ecd71985e4a240956da176bb2da0f1788b50efb114b6e0719e8",
+      "lastModified": "2026-11-02T09:47:55.104Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
+      "status": "passed",
+      "metrics": {
+        "buttonsTotal": 9,
+        "buttonsWithActions": 9,
+        "deadButtons": 0,
+        "linksTotal": 13,
+        "linksValid": 13,
+        "nativeAlerts": 0,
+        "contrastCompliant": true,
+        "swrCalls": 1,
+        "modalsTotal": 0
       },
       "issues": [],
       "warnings": [
         {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
+          "rule": "Pass 04: Modals Usage (Universal Dismissal)",
+          "type": "MODAL_DISMISSAL_MISSING",
+          "message": "Modal element detected, but script lacks standard backdrop click dismissal or Escape key listener to close active overlays."
         }
       ]
     },
     "pages/share-list-drawer/share-list-drawer.html": {
       "pageName": "Share Personal List Drawer",
       "route": "share-list-drawer",
-      "fileHash": "sha256:ea35cf7530274809f6529bddf6eb7a27a8da39cda547cdbdc774847764299d90",
-      "lastModified": "2026-11-01T12:35:10.031Z",
-      "lastTested": "2026-11-01T12:35:10.130Z",
+      "fileHash": "sha256:b479d6e64eaa082d20d256186a67218e871ed6eddb079ae83a76550acd1906f6",
+      "lastModified": "2026-11-02T09:47:55.104Z",
+      "lastTested": "2026-11-02T09:47:55.229Z",
       "status": "passed",
       "metrics": {
-        "buttonsTotal": 7,
-        "buttonsWithActions": 7,
+        "buttonsTotal": 9,
+        "buttonsWithActions": 9,
         "deadButtons": 0,
-        "linksTotal": 14,
-        "linksValid": 14,
+        "linksTotal": 13,
+        "linksValid": 13,
         "nativeAlerts": 0,
         "contrastCompliant": true,
         "swrCalls": 1,
-        "modalsTotal": 1
+        "modalsTotal": 0
       },
       "issues": [],
       "warnings": [
         {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_LIGHT_BACKGROUND",
-          "message": "Container has \"bg-white\" without a corresponding \"dark:bg-*\" variant class (sidebar w-64 bg-white border-r border-slate-200 fl).",
-          "snippet": "<div class=\"sidebar w-64 bg-white border-r border-slate-200 flex flex-col justify-between shrink-0 transition-all duration-300 z-30 select-none\">"
-        },
-        {
-          "rule": "Pass 11: Dark & Light Theme Compliance",
-          "type": "HARDCODED_DARK_TEXT",
-          "message": "Text has hardcoded dark color without a corresponding \"dark:text-*\" variant (bg-slate-50 text-slate-900 font-sans antialiased m).",
-          "snippet": "<div class=\"bg-slate-50 text-slate-900 font-sans antialiased min-h-screen flex\">"
+          "rule": "Pass 04: Modals Usage (Universal Dismissal)",
+          "type": "MODAL_DISMISSAL_MISSING",
+          "message": "Modal element detected, but script lacks standard backdrop click dismissal or Escape key listener to close active overlays."
         }
       ]
     }
@@ -614,6 +457,16 @@
     "suites": []
   },
   "history": [
+    {
+      "timestamp": "2026-11-02T09:47:55.229Z",
+      "action": "qa_full_audit",
+      "commit": "060761a",
+      "complianceRate": 100,
+      "pagesAudited": 13,
+      "status": "passed",
+      "agent": "Antigravity",
+      "details": "13/13 pages passed. Completed 20/20 QA passes."
+    },
     {
       "timestamp": "2026-11-01T12:35:10.130Z",
       "action": "qa_full_audit",
